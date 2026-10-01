@@ -12,8 +12,6 @@ node_modules/
 
 # ==========================================
 
-.env
-.env.*
 !.env.example
 !.env.example.local
 
@@ -151,7 +149,6 @@ Icon
 
 # ==========================================
 
-.vscode/
 .idea/
 *.iml
 
@@ -216,3 +213,4 @@ docker-compose.override.yml
 
 *.orig
 *.rej
+config.bat
